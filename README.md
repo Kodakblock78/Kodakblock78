@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kodakblock78
+- 👋 Hi, I’m @ezequielle
 - 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning PYTHON  
 - 💞️ I’m looking to collaborate on PYTHON
-- 📫 How to reach me 
+- 📫 How to reach me  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
